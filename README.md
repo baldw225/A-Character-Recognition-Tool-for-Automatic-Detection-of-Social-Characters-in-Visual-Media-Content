@@ -2,9 +2,9 @@
 
 A Character Recognition Tool for Automatic Detection of Social Characters in Visual Media Content
 
-[AUTHORS BLINDED]
+Joshua Baldwin and Ralf Schmälzle
 
-Submitted to Computational Communication Research
+In Press at Computational Communication Research
 
 Included:
 
