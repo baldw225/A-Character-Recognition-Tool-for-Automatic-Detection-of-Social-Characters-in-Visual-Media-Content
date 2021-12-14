@@ -6,11 +6,13 @@ Joshua Baldwin and Ralf Schmälzle
 
 In Press at Computational Communication Research
 
+
+
 Included:
 
-Actor Image Files
+  Actor Image Files
 
-Dataset
+  Dataset
 
-Analysis
+  Analysis
 
